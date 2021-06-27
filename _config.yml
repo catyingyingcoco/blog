@@ -28,7 +28,7 @@ url: "https://catyingyingcoco.github.io/" # the base hostname & protocol for you
 github_username:  catyingyingcoco
 linkedin_username: Coco Lam
 author: Coco Lam
-copyright: Coco Lam
+# copyright: Coco Lam
 
 # Build settings
 # theme: minima

@@ -1,10 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Profolio
+permalink: /profolio/
 ---
 
-About me
+This is my Profolio.
+
+Here is my product before.
 
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
