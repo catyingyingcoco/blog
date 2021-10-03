@@ -5,7 +5,7 @@
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: $spacing-unit * 1.865;
-  background-color: blueviolet;
+  background-color: rgba(28, 142, 196, 0.925);
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -109,7 +109,7 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
-  background-color: cyan;
+  background-color: rgba(28, 142, 196, 0.925);
 }
 
 .footer-heading {
@@ -125,7 +125,7 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
+  color: white;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
 }
